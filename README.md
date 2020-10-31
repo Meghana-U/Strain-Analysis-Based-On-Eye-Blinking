@@ -1,7 +1,7 @@
 # Strain-Analysis-Based-On-Eye-Blinking
 System that monitors and alerts a stressed person based on eye aspect ratio
 ## Description
-Computer Vision system that alerts the person if eyes are getting strained.This System uses the integrated webcam to capture eyes of the person and counts number of times a person blinks. If blink count deviates from the average value, then system alerts the person by playing an audio message along with a popup message on the screen.
+A Computer Vision system that alerts the person if eyes are getting strained. This System uses the integrated webcam to capture the eyes of the person and counts the number of times a person blinks. If blink count deviates from the average value, then the system alerts the person by playing an audio message along with a popup message on the screen.
 ## Prerequisites
 1. Install python 3.6
 2. Install OpenCV 
